@@ -17,3 +17,13 @@ Karachi Campus
 
 - **C Programming Projects** – Developed basic programs using C.
 - **GitHub Resume** – Created and managed a professional CV using GitHub Markdown.
+## Hobbies & Extracurriculars
+
+1. Programming
+2. Playing Chess
+3. Learning New Technologies
+
+   - [x] Practice programming
+   - [x] Learn GitHub
+   - [ ] Complete a new C project
+   - [ ] Participate in a coding competition
